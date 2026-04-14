@@ -3947,6 +3947,8 @@ header.main-menu {
 }
 .mobile-nav__wrapper .mobile-nav__content .logo-box .bmc-mobile-logo img {
   width: 52px;
+  scale: 3;
+  margin-left: 20px;
 }
 .mobile-nav__wrapper .mobile-nav__content .logo-box .logo-wordmark {
   font-family: "Playfair Display", sans-serif;
